@@ -2,6 +2,9 @@
 
 This project aimed to see whether or not Jim Cramer's calls, be it his calls verbatim or the opposite, would be able to outperform the market.
 
+# Files
+NOTE: Some files are too large to post in here (i.e. the historical data and other .csv files. They can be found in Google Drive here: https://drive.google.com/drive/folders/1i-hRHvTAsoIa59eUg8r9IjhrvTx7-i_h?usp=sharing
+
 # Background
 
 The rules for the project were the following:
